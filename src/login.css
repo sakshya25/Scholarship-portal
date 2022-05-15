@@ -39,7 +39,7 @@ body{
         text-align: center;
     }
     .container-2 input{
-        padding: 0rem 2rem;
+        padding: 0rem 0.5rem;
         outline: none;
         border-top-style: none;
       border-left-style: none;
@@ -50,13 +50,13 @@ body{
 
     }
     .container-2 input::placeholder{
-        font-weight: 550;
-        color: grey;
+        font-weight: 400;
+        color: rgb(184, 174, 174);
 
     }
     .id h3{
         font-size: 25px;
-        margin-bottom: 1rem;
+        margin-bottom: 0.8rem;
     }
     .container-2 .reset a{
         margin-left: 30%;

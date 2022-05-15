@@ -18,7 +18,7 @@ export default function login() {
                             <div className="id">
                                 <h3> <label htmlFor="password">Password</label></h3>
 
-                                <div>  <i className="fas fa-unlock">   <input type="password" autoComplete='off' id='password' /></i>
+                                <div>  <i className="fas fa-unlock">   <input type="password" autoComplete='off' id='password' placeholder='Enter password'/></i>
                                 </div>
                             </div>
                             <div className="captcha">
